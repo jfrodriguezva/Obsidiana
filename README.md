@@ -4,6 +4,8 @@ Estrategia en tiempo real del Universo Uapeani: historia real, de las cavernas a
 
 **Jugar:** https://jfrodriguezva.github.io/Obsidiana/
 
-Prototipo: escaramuzas en dos periodos, **Las cavernas** (12 culturas) y **el siglo XVI** (20 culturas). También incluye un visor de los escenarios 3D.
+Prototipo: escaramuzas contra la IA en los siete periodos con 118 culturas (cada una con su líder, unidad, edificio y maravilla), la campaña de México y la Conquista del Mundo.
 
-Este repositorio solo contiene la versión web publicada. El código es privado. Ver `LICENSE` y `CREDITS.md`.
+Este repositorio solo contiene la versión web publicada (compilada) del juego. El código fuente es privado.
+
+Copyright (c) 2026 Juan Francisco Rodriguez Vazquez. Todos los derechos reservados. Ver `LICENSE` y `CREDITS.md`.
