@@ -1,0 +1,25 @@
+name: Corregir un dato histórico
+description: Algo de un pueblo, un líder, una fecha o una costumbre no es como fue.
+title: "[Historia] "
+labels: ["historia"]
+body:
+  - type: input
+    id: pueblo
+    attributes:
+      label: Pueblo y periodo
+      placeholder: "Mexicas (defensa de Tenochtitlan), 1500"
+    validations:
+      required: true
+  - type: textarea
+    id: que
+    attributes:
+      label: Qué dice el juego y qué debería decir
+    validations:
+      required: true
+  - type: textarea
+    id: fuente
+    attributes:
+      label: Fuente
+      description: Libro, artículo, códice o institución que lo respalda (autor, título, página si se puede).
+    validations:
+      required: true

@@ -1,0 +1,32 @@
+name: Proponer un pueblo
+description: Un pueblo que falta en un periodo (si puedes, hazlo como mod; ver MODS.md).
+title: "[Pueblo] "
+labels: ["pueblo"]
+body:
+  - type: input
+    id: nombre
+    attributes:
+      label: Pueblo, lugar y fechas
+      placeholder: "Totonacas de Cempoala, costa del Golfo, 1519"
+    validations:
+      required: true
+  - type: dropdown
+    id: periodo
+    attributes:
+      label: Periodo
+      options: [Cavernas, Antigüedad, Edad Media, 1400, 1500, 1600, 1700, 1800, 1900 – 2000]
+    validations:
+      required: true
+  - type: textarea
+    id: que_lo_hace_unico
+    attributes:
+      label: Qué lo hacía distinto
+      description: Su modo de pelear, su economía, su líder, su gran obra. Lo que lo haría jugar distinto a los demás.
+    validations:
+      required: true
+  - type: textarea
+    id: fuentes
+    attributes:
+      label: Fuentes
+    validations:
+      required: true

@@ -1,0 +1,23 @@
+name: Algo no funciona
+description: Un error, un bloqueo o algo que se ve mal.
+title: "[Error] "
+labels: ["error"]
+body:
+  - type: textarea
+    id: paso
+    attributes:
+      label: Qué hiciste y qué pasó
+    validations:
+      required: true
+  - type: input
+    id: dispositivo
+    attributes:
+      label: Dispositivo y navegador
+      placeholder: "Celular Android, Chrome"
+    validations:
+      required: true
+  - type: input
+    id: reto
+    attributes:
+      label: Código de reto de la partida (si lo tienes)
+      description: En Comunidad → Retos, «Crear reto con lo elegido» antes de jugar. Así se puede repetir la misma partida.

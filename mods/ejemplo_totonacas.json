@@ -1,0 +1,66 @@
+{
+  "id": "ejemplo_totonacas",
+  "nombre": "Totonacas de Cempoala (ejemplo)",
+  "autor": "Equipo de Obsidiana",
+  "version": "1.0",
+  "descripcion": "Mod de ejemplo: agrega a los totonacas de Cempoala en 1519, con su atuendo y una música propia. Sirve como plantilla para hacer el tuyo (ver docs/MODS.md).",
+  "culturas": {
+    "s1500": [
+      {
+        "id": "mod_totonacas_cempoala",
+        "nombre": "Totonacas de Cempoala",
+        "lugar": "Cempoala",
+        "coords": [
+          -96.4,
+          19.44
+        ],
+        "fechas": "1519 – 1521",
+        "estilo": "rebelión contra el tributo",
+        "mexico": true,
+        "poder": {
+          "nombre": "Dejar de pagar a Tenochtitlan",
+          "texto": "Prenden a los recaudadores mexicas y se alzan: el día acordado, cada edificio suelta a dos guerreros.",
+          "efectos": {
+            "lealtad": 0.2,
+            "vida.infanteria": 0.1
+          },
+          "regla": "levantamiento"
+        },
+        "unidad": {
+          "nombre": "Guerrero totonaca",
+          "clase": "infanteria",
+          "texto": "Guerrero de la costa del Golfo con escudo y macana.",
+          "efectos": {
+            "velocidad.infanteria": 0.1
+          }
+        },
+        "colores": [
+          "#e8d9a8",
+          "#2f7d5a"
+        ],
+        "edificio": {
+          "nombre": "Casa de Cempoala",
+          "texto": "Casas encaladas de la ciudad, que los españoles creyeron de plata.",
+          "tipo": "casas"
+        },
+        "maravilla": "Templo Mayor de Cempoala",
+        "lider": {
+          "nombre": "Xicomecóatl",
+          "titulo": "Señor de Cempoala",
+          "texto": "Recibió a Cortés en 1519 y le dio cargadores y guerreros contra los mexicas.",
+          "aura": "defensa"
+        },
+        "recurso_clave": "comida",
+        "economia": "agricola",
+        "zona": "costa",
+        "dato": "En 1519 los totonacas de Cempoala apresaron a los recaudadores de tributo mexicas y se aliaron con los castellanos recién llegados a la costa.",
+        "fuente": "Bernal Díaz del Castillo, Historia verdadera de la conquista de la Nueva España, caps. XLV–XLVII"
+      }
+    ]
+  },
+  "atuendos": {
+    "culturas": {
+      "mod_totonacas_cempoala": "mesoamerica"
+    }
+  }
+}
