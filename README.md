@@ -9,14 +9,19 @@ culturas del mundo alrededor.
   con su líder, su unidad, su edificio, su maravilla, su atuendo y su música.
 - La IA tiene cuatro niveles (fácil, normal, difícil y experto).
 - Incluye la campaña de México y la Conquista del Mundo.
-- Se juega en español o en inglés (todo el juego, incluidas las fichas de historia).
+- Se juega en español o en inglés (todo el juego, incluidas las fichas de historia); en portugués, la interfaz y los nombres de la partida (las fichas siguen en español).
+- **Códice:** la enciclopedia de los 355 pueblos, con su fuente, y «Ponte a prueba», preguntas de historia (también al
+  terminar cada partida).
+- **Ajustes:** colores para daltonismo, tamaño de la interfaz y del texto, menos movimiento, calidad y volúmenes.
+- Modos de victoria: conquista, territorio, maravilla, las edades, **regicidio** y **rey de la colina**.
 
 ## Comunidad
 
 - **Retos:** en el juego, Comunidad → Retos crea un código (`OBS1-…`) con una partida exacta para compartir. Como enlace:
   `https://jfrodriguezva.github.io/Obsidiana/?reto=OBS1-…`.
 - **Escenarios:** Comunidad → Editor de escenarios arma tu propia partida (título, relato, hasta cuatro objetivos,
-  recursos, minutos de calma y fuerza del rival), la guarda en tu dispositivo y la comparte como un reto.
+  recursos, minutos de calma y fuerza del rival), la guarda en tu dispositivo y la comparte como un reto. La **galería**
+  trae siete escenarios listos para jugar o para abrir en el editor.
 - **Mods:** pueblos, atuendos y música que se instalan pegando su texto en Comunidad → Mods. Guía: [MODS.md](MODS.md). Hay un
   ejemplo en [mods/](mods/).
 - **Participar:** corregir un dato histórico, proponer un pueblo o compartir un mod. Ver [CONTRIBUTING.md](CONTRIBUTING.md)
@@ -36,12 +41,15 @@ A real-time strategy game set in real history, from the caves to the year 2000, 
 world's cultures around it.
 
 **Play:** https://jfrodriguezva.github.io/Obsidiana/. It runs in the browser, including on phones. Switch the language
-to English in the main menu.
+to English (or Portuguese, for the interface and in-game names) in the main menu or in Settings. The **Codex** lists all 355 peoples with
+its sources and quizzes you on their history; **Settings** has colorblind colors, interface and text size and reduced
+motion.
 
 **Community:**
 - **Challenges:** share an exact match as a code (`OBS1-…`) or as a link with `?reto=OBS1-…`.
 - **Scenarios:** Community → Scenario editor builds your own match (title, story, up to four objectives, resources,
-  minutes of calm and rival strength), saves it on your device and shares it as a challenge.
+  minutes of calm and rival strength), saves it on your device and shares it as a challenge. The **gallery** has seven
+  ready-made scenarios.
 - **Mods:** add peoples, outfits or music by pasting a mod's text into Community → Mods. The guide is in Spanish
   ([MODS.md](MODS.md)).
 - **Contributing:** proposals to fix history or add a people are welcome, always with sources.
