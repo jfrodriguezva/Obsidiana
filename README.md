@@ -9,7 +9,10 @@ culturas del mundo alrededor.
   con su líder, su unidad, su edificio, su maravilla, su atuendo y su música.
 - La IA tiene cuatro niveles (fácil, normal, difícil y experto).
 - Incluye la campaña de México y la Conquista del Mundo.
-- Se juega en español o en inglés (todo el juego, incluidas las fichas de historia); en portugués, la interfaz y los nombres de la partida (las fichas siguen en español).
+- Se juega en español o en inglés (todo el juego, incluidas las fichas de historia); en portugués y en francés, la interfaz y los nombres de la partida (las fichas siguen en español).
+- **Logros y reto del día:** 24 logros, tu carrera y una partida distinta cada día, la misma para todos.
+- Cada partida tiene su **hora del día y su tiempo**: amanecer o atardecer, lluvia en la selva, nieve en el Ártico.
+- En la Conquista del Mundo cada pueblo tiene su **agenda** y entre turnos llegan **sucesos** que hay que decidir.
 - **Códice:** la enciclopedia de los 355 pueblos, con su fuente, y «Ponte a prueba», preguntas de historia (también al
   terminar cada partida).
 - **Ajustes:** colores para daltonismo, tamaño de la interfaz y del texto, menos movimiento, calidad y volúmenes.
@@ -41,7 +44,9 @@ A real-time strategy game set in real history, from the caves to the year 2000, 
 world's cultures around it.
 
 **Play:** https://jfrodriguezva.github.io/Obsidiana/. It runs in the browser, including on phones. Switch the language
-to English (or Portuguese, for the interface and in-game names) in the main menu or in Settings. The **Codex** lists all 355 peoples with
+to English (or Portuguese and French, for the interface and in-game names) in the main menu or in Settings. There are 24
+**achievements**, your career stats and a **daily challenge**; every match has its own time of day and weather, and in the
+World Conquest each people follows its own agenda while events ask you to decide. The **Codex** lists all 355 peoples with
 its sources and quizzes you on their history; **Settings** has colorblind colors, interface and text size and reduced
 motion.
 
