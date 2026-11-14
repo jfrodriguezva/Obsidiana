@@ -13,6 +13,7 @@ culturas del mundo alrededor.
 - **Logros y reto del día:** 24 logros, tu carrera y una partida distinta cada día, la misma para todos.
 - Cada partida tiene su **hora del día y su tiempo**: amanecer o atardecer, lluvia en la selva, nieve en el Ártico.
 - En la Conquista del Mundo cada pueblo tiene su **agenda** y entre turnos llegan **sucesos** que hay que decidir.
+- **Revisado con ojo de historiador, arqueólogo y paleontólogo:** cada pueblo de las cavernas caza los animales que había en su tierra y su tiempo (sin mamuts en Japón ni en Australia), y cada maravilla toma la forma de su arquitectura.
 - **Códice:** la enciclopedia de los 355 pueblos, con su fuente, y «Ponte a prueba», preguntas de historia (también al
   terminar cada partida).
 - **Ajustes:** colores para daltonismo, tamaño de la interfaz y del texto, menos movimiento, calidad y volúmenes.
@@ -46,7 +47,8 @@ world's cultures around it.
 **Play:** https://jfrodriguezva.github.io/Obsidiana/. It runs in the browser, including on phones. Switch the language
 to English (or Portuguese and French, for the interface and in-game names) in the main menu or in Settings. There are 24
 **achievements**, your career stats and a **daily challenge**; every match has its own time of day and weather, and in the
-World Conquest each people follows its own agenda while events ask you to decide. The **Codex** lists all 355 peoples with
+World Conquest each people follows its own agenda while events ask you to decide. Every Stone Age people hunts the animals
+that actually lived in its land and time, and every wonder takes the shape of its own architecture. The **Codex** lists all 355 peoples with
 its sources and quizzes you on their history; **Settings** has colorblind colors, interface and text size and reduced
 motion.
 
