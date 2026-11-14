@@ -13,6 +13,7 @@ culturas del mundo alrededor.
 - **Logros y reto del día:** 24 logros, tu carrera y una partida distinta cada día, la misma para todos.
 - Cada partida tiene su **hora del día y su tiempo**: amanecer o atardecer, lluvia en la selva, nieve en el Ártico.
 - En la Conquista del Mundo cada pueblo tiene su **agenda** y entre turnos llegan **sucesos** que hay que decidir.
+- **Música propia en el menú y en el mapa del mundo**, y cada pueblo suena con instrumentos de su época (sin sitar en la India antigua ni charango con los incas).
 - **Revisado con ojo de historiador, arqueólogo y paleontólogo:** cada pueblo de las cavernas caza los animales que había en su tierra y su tiempo (sin mamuts en Japón ni en Australia), y cada maravilla toma la forma de su arquitectura.
 - **Códice:** la enciclopedia de los 355 pueblos, con su fuente, y «Ponte a prueba», preguntas de historia (también al
   terminar cada partida).
