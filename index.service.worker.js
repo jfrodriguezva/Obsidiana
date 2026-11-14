@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1794619470|22243906';
+const CACHE_VERSION = '1794620105|17718432';
 /** @type {string} */
 const CACHE_PREFIX = 'Obsidiana: Forja-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;

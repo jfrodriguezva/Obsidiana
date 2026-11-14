@@ -9,7 +9,7 @@ culturas del mundo alrededor.
   con su líder, su unidad, su edificio, su maravilla, su atuendo y su música.
 - La IA tiene cuatro niveles (fácil, normal, difícil y experto).
 - Incluye la campaña de México y la Conquista del Mundo.
-- Se juega en español o en inglés (todo el juego, incluidas las fichas de historia); en portugués y en francés, la interfaz y los nombres de la partida (las fichas siguen en español).
+- Se juega en español o en inglés (todo el juego, incluidas las fichas de historia); en portugués y en francés, la interfaz, los nombres de la partida y los de los 355 pueblos con sus unidades, edificios y maravillas (las descripciones de las fichas siguen en español).
 - **Logros y reto del día:** 24 logros, tu carrera y una partida distinta cada día, la misma para todos.
 - Cada partida tiene su **hora del día y su tiempo**: amanecer o atardecer, lluvia en la selva, nieve en el Ártico.
 - En la Conquista del Mundo cada pueblo tiene su **agenda** y entre turnos llegan **sucesos** que hay que decidir.
