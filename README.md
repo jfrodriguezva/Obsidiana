@@ -38,6 +38,9 @@ privado.
 Copyright (c) 2026 Juan Francisco Rodriguez Vazquez. Todos los derechos reservados. Ver `LICENSE` y `CREDITS.md`. Los
 mods son de quien los hace.
 
+Hecho con [Godot Engine](https://godotengine.org) (licencia MIT). Las fuentes Alegreya son de Huerta Tipográfica (SIL Open
+Font License 1.1). Los avisos completos de licencias de terceros están en `licencias/`.
+
 ---
 
 # Obsidiana: Forge of Peoples (English)
